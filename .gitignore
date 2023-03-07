@@ -1,0 +1,9 @@
+
+Firmware/.theia/launch.json
+Firmware/.vscode/arduino.json
+Firmware/.vscode/c_cpp_properties.json
+Firmware/.vscode/settings.json
+Firmware/debug_custom.json
+Firmware/debug.cfg
+Firmware/esp32.svd
+Firmware/esp32c3.svd
