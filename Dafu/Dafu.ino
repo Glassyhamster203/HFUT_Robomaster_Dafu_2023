@@ -24,7 +24,7 @@ void fillLED(void);
 
 /*********************变量数组等定义************************/
 
-uint8_t max_bright = 200; // 亮度
+uint8_t max_bright = 200; // 亮度 
 uint8_t n = 0;            // LED灯的首地址
 uint8_t hitFlag = 0;
 
